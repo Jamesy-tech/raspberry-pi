@@ -1,3 +1,6 @@
+# Made for Raspberry Pi Pico 2 W using CircutPython
+# code.py
+
 import time
 import usb_hid
 

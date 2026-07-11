@@ -5,7 +5,7 @@ import time
 import usb_hid
 from adafruit_hid.mouse import Mouse
 
-time.sleep(3)
+time.sleep(1.5)
 
 mouse = Mouse(usb_hid.devices)
 

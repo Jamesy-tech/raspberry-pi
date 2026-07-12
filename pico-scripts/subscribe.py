@@ -57,4 +57,4 @@ time.sleep(0.3)
 
 keyboard.release_all()
 
-time.sleep(100000)
+time.sleep(100000000)

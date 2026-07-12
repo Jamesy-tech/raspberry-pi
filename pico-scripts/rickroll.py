@@ -1,3 +1,7 @@
+# Made for Raspberry Pi Pico 2 W using CircutPython;
+# Works on Chromebook, Windows;
+# code.py;
+
 import time
 import board
 import digitalio

@@ -1,4 +1,4 @@
-# Made for Raspberry Pi Pico 2 W using CircuitPython
+# Made for Raspberry Pi Pico 2 W using CircuitPython [should work with most other models]
 # code.py
 
 import time

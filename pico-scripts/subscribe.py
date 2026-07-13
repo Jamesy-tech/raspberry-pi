@@ -24,21 +24,21 @@ time.sleep(0.15)
 led.value = False
 
 keyboard.release_all()
-time.sleep(0.1)
+time.sleep(0.05)
 
 keyboard.press(Keycode.CONTROL)
 keyboard.press(Keycode.T)
 time.sleep(0.05)
 keyboard.release_all()
 
-time.sleep(0.5)
+time.sleep(0.05)
 
-layout.write("https://www.youtube.com/@jamesydeveloper?sub_confirmation=1")
+layout.write("https://www.youtube.com/channel/UCBeRITLbzQs2WLP1U7vJ3SQ?sub_confirmation=1")
 
 keyboard.send(Keycode.ENTER)
 keyboard.release_all()
 
-time.sleep(3)
+time.sleep(4)
 
 keyboard.send(Keycode.TAB)
 keyboard.release_all()
@@ -48,7 +48,7 @@ keyboard.release_all()
 keyboard.send(Keycode.ENTER)
 keyboard.release_all()
 
-time.sleep(0.5)
+time.sleep(0.75)
 
 keyboard.press(Keycode.CONTROL)
 keyboard.press(Keycode.W)
